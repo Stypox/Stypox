@@ -9,9 +9,8 @@
 
 
 Hello there! I'm currently working on:
-- [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant*
+- [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid)
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the original YouTube app doesn't have (available on F-Droid)
-- [**1010-ai**](https://github.com/Stypox/1010-ai): a simple AI for the game *"1010!"*, just to experiment with something new in my free time
 
 Other projects I'm proud of are:
 - [**Mastercom Workbook**](https://github.com/Stypox/mastercom-workbook): an Android app to access *"Quaderno Elettronico Mastercom"* (available on F-Droid)
