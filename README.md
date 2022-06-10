@@ -11,6 +11,7 @@
 Hello there! I'm currently working on:
 - [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid)
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the original YouTube app doesn't have (available on F-Droid)
+- [**dicio-numbers**](https://github.com/Stypox/dicio-numbers): a Java library for multilanguage *number parsing* and formatting
 
 Other projects I'm proud of are:
 - [**Crop detection**](https://github.com/MindsHub/crop-detection): an AI model to detect crops in images, a building block of [MindsHub](https://mindshub.it)'s [Cyberorto](https://mindshub.it/progetto-cyberorto/), an autonomous farmer
