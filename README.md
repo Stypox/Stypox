@@ -8,7 +8,13 @@
 </a>
 
 
-Hello there! I'm currently working on:
+Hello there! This is Stypox:
+- Passionate contributor to **free software**, enjoys writing code to replace apps and services that do not *respect* the user
+- Member of [**MindsHub**](https://mindshub.it), an association focused on education and team work in the fields of informatics, electronics and 3d printing
+- Participates to **competitive programming** competitions and is a tutor for younger students
+- Studies information engineering at *Univertity of Trento*
+
+I'm currently working on:
 - [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid)
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the original YouTube app doesn't have (available on F-Droid)
 - [**dicio-numbers**](https://github.com/Stypox/dicio-numbers): a Java library for multilanguage *number parsing* and formatting
