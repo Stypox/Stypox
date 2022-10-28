@@ -13,6 +13,7 @@ Hello there! This is Stypox:
 - Member of [**MindsHub**](https://mindshub.it), an association focused on education and team work in the fields of informatics, electronics and 3d printing
 - Participates to **competitive programming** competitions and is a tutor for younger students
 - Studies information engineering at *Univertity of Trento*
+- User of Manjaro Linux with KDE and owner of a *Fairphone 3+* with /e/OS
 
 I'm currently working on:
 - [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid)
