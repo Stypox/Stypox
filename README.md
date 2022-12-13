@@ -26,3 +26,6 @@ Other projects I'm proud of are:
 - [**Plotter**](https://github.com/Stypox/plotter): some scripts and algorithms to print G-code, text or images with a *custom-made 2D plotter*
 - [**Mastercom Workbook**](https://github.com/Stypox/mastercom-workbook): an Android app to access *"Quaderno Elettronico Mastercom"* (available on F-Droid)
 - [**Olympiad exercises**](https://github.com/Stypox/olympiad-exercises): the competitive programming code I've produced to train for the *Italian Olympiad in Informatics*
+
+<br>
+<a href="https://liberapay.com/Stypox/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
