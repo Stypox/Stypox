@@ -16,7 +16,7 @@ Hello there! This is Stypox:
 - User of Manjaro Linux with KDE and owner of a *Fairphone 3+* with /e/OS
 
 I'm currently working on:
-- [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid)
+- [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid and Play Store)
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the original YouTube app doesn't have (available on F-Droid)
 - [**dicio-numbers**](https://github.com/Stypox/dicio-numbers): a Java library for multilanguage *number parsing* and formatting
 - [**Tridenta**](https://github.com/Stypox/tridenta): an app to view public transport information in Trentino (available on F-Droid and Play Store)
