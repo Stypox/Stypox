@@ -10,7 +10,7 @@
 
 Ciao! I am Stypox:
 - Passionate contributor to **free software**, enjoys writing code to replace apps and services that do not *respect* the user
-- Member of [**MindsHub**](https://mindshub.it), an association focused on education and team work in the fields of informatics, electronics and 3d printing
+- Member of [**MindsHub**](https://mindshub.it), a no-profit association focused on education and team work in the fields of informatics, electronics and 3d printing
 - Participates to **competitive programming** competitions and is a tutor for younger students
 - Studies information engineering at *University of Trento*
 - User of Manjaro Linux with KDE and owner of a *Fairphone 3+* with /e/OS
@@ -20,6 +20,7 @@ I'm currently working on:
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the original YouTube app doesn't have (available on F-Droid)
 - [**dicio-numbers**](https://github.com/Stypox/dicio-numbers): a Java library for multilanguage *number parsing* and formatting
 - [**Tridenta**](https://github.com/Stypox/tridenta): an app to view public transport information in Trentino (available on F-Droid and Play Store)
+- [**Insigno**](https://github.com/MindsHub/insigno_frontend): an app by [MindsHub](https://mindshub.it) that gameifies reporting and collecting trash (available on F-Droid, Play Store and Apple Store)
 
 Other projects I'm proud of are:
 - [**Crop detection**](https://github.com/MindsHub/crop-detection): an AI model to detect crops in images, a building block of [MindsHub](https://mindshub.it)'s [Cyberorto](https://mindshub.it/progetto-cyberorto/), an autonomous farmer
