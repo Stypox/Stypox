@@ -19,14 +19,15 @@ I'm currently working on:
 - [**Dicio**](https://github.com/Stypox/dicio-android): an Android *voice assistant* (available on F-Droid and Play Store)
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the official YouTube app doesn't have (available on F-Droid)
 - [**dicio-numbers**](https://github.com/Stypox/dicio-numbers): a Java library for multilanguage *number parsing* and formatting
-- [**Tridenta**](https://github.com/Stypox/tridenta): an app to view public transport information in Trentino (available on F-Droid and Play Store)
-- [**Insigno**](https://github.com/MindsHub/insigno_frontend): an app by [MindsHub](https://mindshub.it) that gameifies reporting and collecting trash (available on F-Droid, Play Store and Apple Store)
+- [**Tridenta**](https://github.com/Stypox/tridenta): an app to view *public transport* information in Trentino (available on F-Droid and Play Store)
+- [**Curriculust**](https://github.com/Stypox/curriculust): a Rust program that allows *writing a CV* in YAML and turning that into LaTeX and PDF
 
 Other projects I'm proud of are:
 - [**Crop detection**](https://github.com/MindsHub/crop-detection): an AI model to detect crops in images, a building block of [MindsHub](https://mindshub.it)'s [Cyberorto](https://mindshub.it/progetto-cyberorto/), an autonomous farmer
 - [**Plotter**](https://github.com/Stypox/plotter): some scripts and algorithms to print G-code, text or images with a *custom-made 2D plotter*
 - [**Mastercom Workbook**](https://github.com/Stypox/mastercom-workbook): an Android app to access *"Quaderno Elettronico Mastercom"* (available on F-Droid)
 - [**Olympiad exercises**](https://github.com/Stypox/olympiad-exercises): the competitive programming code I've produced to train for the *Italian Olympiad in Informatics*
+- [**Insigno**](https://github.com/MindsHub/insigno_frontend): an app by [MindsHub](https://mindshub.it) that gameifies reporting and collecting trash (available on F-Droid, Play Store and Apple Store)
 
 <br>
 <a href="https://liberapay.com/Stypox/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
