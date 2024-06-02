@@ -20,7 +20,7 @@ I'm currently working on:
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): an Android *YouTube frontend* with many cool features the official YouTube app doesn't have (available on F-Droid)
 - [**dicio-numbers**](https://github.com/Stypox/dicio-numbers): a Java library for multilanguage *number parsing* and formatting
 - [**Tridenta**](https://github.com/Stypox/tridenta): an app to view *public transport* information in Trentino (available on F-Droid and Play Store)
-- [**Curriculust**](https://github.com/Stypox/curriculust): a Rust program that allows *writing a CV* in YAML and turning that into LaTeX and PDF
+- [**Curricust**](https://github.com/Stypox/curricust): a Rust program that allows *writing a CV* in YAML and turning that into LaTeX and PDF
 
 Other projects I'm proud of are:
 - [**Crop detection**](https://github.com/MindsHub/crop-detection): an AI model to detect crops in images, a building block of [MindsHub](https://mindshub.it)'s [Cyberorto](https://mindshub.it/progetto-cyberorto/), an autonomous farmer
