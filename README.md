@@ -12,7 +12,7 @@ Ciao! I am Stypox:
 - Passionate contributor to **free software**, enjoys writing code to replace apps and services that do not *respect* the user
 - Member of [**MindsHub**](https://mindshub.it), a no-profit association focused on education and team work in the fields of informatics, electronics and 3d printing
 - Participates to **competitive programming** and **cybersecurity** competitions and is a tutor for younger students
-- Studies information engineering at *University of Trento*
+- Studies Computer Science at *ETH Zürich*
 - User of Manjaro Linux with KDE and owner of a *Fairphone 3+* with /e/OS
 
 I'm currently working on:
