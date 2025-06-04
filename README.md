@@ -1,6 +1,6 @@
 
 Ciao! I am Stypox:
-- Passionate contributor to **free software**, enjoys writing code to replace apps and services that do not *respect* the user
+- Passionate contributor to **free software** and board member of [NewPipe e.V.](https://newpipe-ev.de/), enjoys writing code to replace apps and services that do not *respect* the user
 - Member of [**MindsHub**](https://mindshub.it), a no-profit association focused on education and team work in the fields of informatics, electronics and 3d printing
 - Participates to **competitive programming** and **cybersecurity** competitions and is a tutor for younger students
 - Studies Computer Science at *ETH Zürich*
