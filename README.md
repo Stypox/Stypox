@@ -1,4 +1,4 @@
-## [KeepAndroidOpen](https://keepandroidopen.org/)
+# [KeepAndroidOpen](https://keepandroidopen.org/)
 <a href="https://keepandroidopen.org/">
     <img src="https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/img/altered-deal.png" alt="KeepAndroidOpen" align="left" float="left" width="206"/>
 </a>
