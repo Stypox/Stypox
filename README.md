@@ -8,7 +8,7 @@ From 2026/2027 onward, Google will require developer verification for all Androi
 
 If you are an app developer, do not sign up for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
 
-—— It is only through developer acquiescence that their takeover plan can possibly succeed. ——
+— It is only through developer acquiescence that their takeover plan can possibly succeed. —
 
 **Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message.**
 
